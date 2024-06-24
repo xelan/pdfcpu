@@ -1447,7 +1447,7 @@ description ... scalefactor, dimensions, formsize, enforce, border, bgcolor
            inFile ... input PDF file
        inFileJSON ... input JSON file
           outFile ... output PDF file
-      outFileJSON ... output PDF file
+      outFileJSON ... output JSON file
 `
 
 	usagePageLayoutList  = "pdfcpu pagelayout list  inFile"
